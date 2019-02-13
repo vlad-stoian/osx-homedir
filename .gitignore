@@ -16,5 +16,7 @@
 /.CFUserTextEncoding
 /.bash_history
 /.bash_sessions
+/.lpass
+/.ssh
 /.viminfo
 
