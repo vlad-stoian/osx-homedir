@@ -1,0 +1,20 @@
+# anyone using OSX just ignore this
+.DS_Store
+
+# Ignoring standard OSX directories
+/Applications
+/Desktop
+/Documents
+/Downloads
+/Library
+/Movies
+/Music
+/Pictures
+/Public
+
+# Ignoring temporary dot directories
+/.CFUserTextEncoding
+/.bash_history
+/.bash_sessions
+/.viminfo
+
