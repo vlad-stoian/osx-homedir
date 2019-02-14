@@ -25,6 +25,7 @@
 /.lpass
 /.oh-my-zsh
 /.ssh
+/.vim
 /.viminfo
 /.zoomus
 /.zsh_history
