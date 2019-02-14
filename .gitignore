@@ -14,9 +14,14 @@
 
 # Ignoring temporary dot directories
 /.CFUserTextEncoding
+/.SpaceVim.d
+/.SpaceVim
 /.Trash
 /.bash_history
 /.bash_sessions
+/.cache
+/.config
+/.local
 /.lpass
 /.oh-my-zsh
 /.ssh
