@@ -21,6 +21,7 @@
 /.bash_sessions
 /.cache
 /.config
+/.docker
 /.local
 /.lpass
 /.oh-my-zsh
@@ -29,4 +30,5 @@
 /.viminfo
 /.zoomus
 /.zsh_history
+/.z
 
