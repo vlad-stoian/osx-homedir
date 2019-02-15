@@ -32,3 +32,5 @@
 /.zsh_history
 /.z
 
+# Ignore workspace
+/workspace
