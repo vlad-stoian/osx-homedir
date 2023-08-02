@@ -106,3 +106,4 @@ source "${HOMEBREW_PREFIX}/share/zsh-autosuggestions/zsh-autosuggestions.zsh"
 
 eval "$(direnv hook zsh)"
 
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh

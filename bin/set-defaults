@@ -1,0 +1,17 @@
+#!/bin/zsh
+
+
+# FlyCut settings
+defaults write com.generalarcade.flycut loadOnStartup 1
+defaults write com.generalarcade.flycut pasteMovesToTop 1
+defaults write com.generalarcade.flycut rememberNum 80
+defaults write com.generalarcade.flycut removeDuplicates 1
+defaults write com.generalarcade.flycut stickyBezel 1
+
+
+# Scroll reverser settings
+defaults write com.pilotmoon.scroll-reverser InvertScrollingOn 1
+defaults write com.pilotmoon.scroll-reverser ReverseTrackpad 0
+defaults write com.pilotmoon.scroll-reverser StartAtLogin 1
+
+
