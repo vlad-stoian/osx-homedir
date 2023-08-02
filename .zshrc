@@ -99,10 +99,10 @@ export EDITOR='nvim'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # Fish like syntax highlighting
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source "${HOMEBREW_PREFIX}/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
 
 # Fish like syntax suggestions
-source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source "${HOMEBREW_PREFIX}/share/zsh-autosuggestions/zsh-autosuggestions.zsh"
 
 eval "$(direnv hook zsh)"
 
